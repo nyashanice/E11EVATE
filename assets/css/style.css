@@ -4,7 +4,7 @@ html {
 }
 
 header {
-    height: 10%;
+    height: 20%;
 }
 
 .parallax {
@@ -41,7 +41,7 @@ nav a {
 }
 
 #about-image {
-    width: 25%;
-    height: 25%;
+    width: 50%;
+    height: 100%;
     float: right;
 }
