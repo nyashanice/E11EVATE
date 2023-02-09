@@ -1,6 +1,6 @@
 let i = 0;
-let fullName = "Will Murray"; /* The text */
-let speed = 200; /* The speed/duration of the effect in milliseconds */
+let fullName = "Will Murray";
+let speed = 200;
 let buttonHolder = document.getElementById("enterButton");
 let enterButton;
 
